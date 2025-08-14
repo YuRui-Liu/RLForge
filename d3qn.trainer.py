@@ -8,7 +8,6 @@ import torch
 import numpy as np
 from algor.d3qn import DQN
 import os
-from usvlib4ros.usvRosUtil import LogUtil, USVRosbridgeClient
 from datetime import datetime
 from torch.utils.tensorboard import SummaryWriter
 
